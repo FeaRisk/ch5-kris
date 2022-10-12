@@ -23,9 +23,9 @@ function Main() {
 
   const API_URL = "https://api.themoviedb.org/3";
   const API_KEY = "15a77a373cab542d1f99af813fbc9979";
-  const movie = trending[9];
-  const movie2 = trending[0];
-  const movie3 = trending[13];
+  const movie = trending[5];
+  const movie2 = trending[2];
+  const movie3 = trending[10];
 
   const getTrending = async () => {
     try {

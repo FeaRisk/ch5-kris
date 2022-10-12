@@ -115,7 +115,7 @@ function Footer() {
         >
           © 2022 Copyright :
           <a className="text-gray-800 pl-1 hover:text-gray-500" href="#!">
-            Azki Nurul Fajri
+            Kris Adiwinata
           </a>
         </div>
       </footer>
